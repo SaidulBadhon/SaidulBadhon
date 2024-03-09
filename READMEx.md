@@ -56,9 +56,10 @@
 </br>
 
 ## 📊 GitHub Stats:
+<div style="display: flex;">
 ![](https://github-readme-stats.vercel.app/api?username=SaidulBadhon&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidulBadhon&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 ---
 
 
