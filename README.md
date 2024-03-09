@@ -1,5 +1,5 @@
-<a href="https://komarev.com/ghpvc/?username=adnansid99">
-  <img align="right" src="https://komarev.com/ghpvc/?username=adnansid99&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=SaidulBadhon">
+  <img align="right" src="https://komarev.com/ghpvc/?username=SaidulBadhon&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 </br>
 
@@ -26,7 +26,7 @@
    <a href="https://instagram.com/a_sid99" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="adnan" />
  </a> 
- <a href="https://linkedin.com/in/adnansid99" target="_blank">
+ <a href="https://linkedin.com/in/SaidulBadhon" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan"/>
  </a>
    <a href="https://wa.me/+8801841733841" target="_blank">
@@ -45,7 +45,7 @@
 <!-- About Section -->
 ## 🥷 About Me:
 
-🔭 I’m currently working on "MYSELF"<br>❤️ Enjoy to do programming and sharing knowledge<br>🌱 I’m currently learning [React.js](https://g.co/kgs/wCY83w)<br>💬 Ask about me [here](https://github.com/adnansid99/adnansid99/issues) <br>⚡ Fun fact: I am single :)
+🔭 I’m currently working on "MYSELF"<br>❤️ Enjoy to do programming and sharing knowledge<br>🌱 I’m currently learning [React.js](https://g.co/kgs/wCY83w)<br>💬 Ask about me [here](https://github.com/SaidulBadhon/SaidulBadhon/issues) <br>⚡ Fun fact: I am single :)
 
 </br>
 
@@ -56,13 +56,13 @@
 </br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adnansid99&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adnansid99&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SaidulBadhon&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidulBadhon&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 
 ## 💰 You can help me by Donating:
  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adnansid99) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/adnansid99) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SaidulBadhon) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SaidulBadhon) 
 
